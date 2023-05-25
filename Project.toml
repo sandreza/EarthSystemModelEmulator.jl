@@ -1,0 +1,4 @@
+name = "EarthSystemModelEmulator"
+uuid = "6dcb5364-e77a-43de-99c0-be4c3dd47371"
+authors = ["Andre Souza <andrenogueirasouza@gmail.com>"]
+version = "0.1.0"
